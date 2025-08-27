@@ -1,4 +1,4 @@
-# Terraform code 
+# Terraform configuration for an Amazon EKS cluster
 
 Helper repository for the project:: https://github.com/dariusz-trawicki/coding-examples/tree/main/gitops-project
 
