@@ -28,9 +28,9 @@ terraform apply
 
 ### Step 2. Run the action - create EKS cluster
 
-Run "Vprofile IAC" action.
+Run `Vprofile IAC` action.
 
-**NOTE** This action requires GitHub secrets to be set up first:
+**NOTE**: This action requires GitHub secrets to be set up first:
 - AWS_ACCESS_KEY_ID
 - AWS_SECRET_ACCESS_KEY
 - BUCKET_TF_STATE
