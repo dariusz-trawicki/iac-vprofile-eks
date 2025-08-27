@@ -26,7 +26,7 @@ terraform apply
 # ecr_repo_url = "25xxxxxxxxx07.dkr.ecr.eu-central-1.amazonaws.com/vprofileapp"
 ```
 
-##### Step 2. Run the action - create EKS cluster
+### Step 2. Run the action - create EKS cluster
 
 Run "Vprofile IAC" action.
 
